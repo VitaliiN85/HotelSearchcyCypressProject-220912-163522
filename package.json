@@ -1,0 +1,22 @@
+{
+  "name": "hotelsearchproject-220912-163522",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm install cypress --save-dev"
+  },
+  "keywords": [
+    "npm",
+    "init"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^12.17.1"
+  }
+}
